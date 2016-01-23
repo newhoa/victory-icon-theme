@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="network-wireless-signal-good-symbolic.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7812503"
+     inkscape:cx="4.8942986"
+     inkscape:cy="10.85936"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="944"
+     inkscape:window-height="549"
+     inkscape:window-x="411"
+     inkscape:window-y="154"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#bebebe;fill-opacity:0.39215686;stroke:none"
+     d="m 1e-7,5.9815 1.2121338,1.3584 c 3.7488284,-4.2014 9.8269051,-4.2014 13.5757321,0 L 16,5.9815 C 11.581738,1.0298 4.4182621,1.0298 0,5.9815 Z"
+     id="path2871"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 2.4242677,8.072 1.2121338,1.3584 c 2.4099613,-2.7008 6.3172355,-2.7008 8.7273165,0 L 13.575732,8.072 C 10.496338,4.6209 5.5036625,4.6209 2.4242675,8.072 Z"
+     id="path3647"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 4.8485357,10.2215 1.2121336,1.3584 c 1.0710939,-1.2003 2.8076869,-1.2003 3.8787817,0 l 1.212133,-1.3584 c -1.7405275,-1.9506 -4.5625211,-1.9506 -6.3030483,0 z"
+     id="path3651"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#c8c8c8;fill-opacity:1;stroke:none"
+     d="m 6.6714427,12.6857 c 0.7380566,-0.7258 1.9346829,-0.7258 2.6727397,0 L 8.0078125,14 Z"
+     id="path2816"
+     inkscape:connector-curvature="0" />
+</svg>

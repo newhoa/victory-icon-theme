@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   sodipodi:docname="xfce4-whiskermenu.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andrea/aspetto/icone/mie/stock/flat/volume-0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.377113"
+     inkscape:cx="15.575159"
+     inkscape:cy="-1.7516451"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1156"
+     inkscape:window-height="774"
+     inkscape:window-x="0"
+     inkscape:window-y="78"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 12.686228,0.6732822 c -0.761076,0.1155568 -1.132859,4.8288604 -0.792751,5.4658087 0.582074,-0.3800581 1.450215,-2.196979 1.721104,-2.8163522 -0.211284,0.5746963 -0.476266,3.2997288 -0.367168,3.3316395 0.22992,0.3075099 3.349623,-4.8358598 2.442924,-5.202948 -0.130329,-0.052763 -1.006064,1.555758 -1.735708,3.1960376 0.0083,-0.7016393 0.575159,-2.8216811 0.34422,-3.4651552 -0.462032,-0.1368641 -1.340366,1.8765772 -1.70024,2.8184371 -0.112505,-0.4782891 0.493631,-3.09544258 0.08762,-3.3274675 z M 5.8039003,1.1697946 C 5.5731543,1.1752356 5.3921724,1.2452616 5.3282496,1.2448979 3.8511631,1.4524348 4.2934278,3.5237203 4.9193571,5.4652521 4.9727963,5.9622407 4.4568146,5.7541822 4.1203477,5.2336853 2.9855625,2.4564557 2.4840767,2.5460812 2.1676773,2.465317 1.8646095,2.4028426 0.81121904,2.9565502 0.83460424,4.0800242 0.83856034,4.4027685 1.2404927,5.9236114 1.2434968,6.3956913 -0.08687666,8.680703 -0.62843596,10.941834 1.0390505,13.280107 2.720546,15.508207 7.7250326,15.582574 8.6202513,15.057533 8.9617853,14.817634 14.069089,12.301337 15.245978,11.32535 17.000485,9.8743544 15.2004,8.0462776 14.776587,7.7913498 11.141495,5.4138576 7.4259042,5.909058 7.3768843,5.5320102 7.3511757,5.0961963 7.3664722,3.8845777 7.3038683,3.4541686 7.0571443,1.4512523 6.3115405,1.1578048 5.8039003,1.1697946 Z M 10.733558,8.6028764 C 10.605577,9.3019746 9.2017213,10.864179 8.7662843,11.317006 9.0936983,10.947537 11.658885,9.5611334 11.732841,9.6522285 12.105371,9.7452279 8.6858593,14.182709 7.9964814,13.488732 7.8973931,13.388983 8.7538213,12.157186 10.155684,11.079179 9.5119303,11.358367 7.6423555,12.382431 6.9596466,12.418512 6.6546405,12.045445 8.6165123,10.79891 9.0354023,10.081983 8.5508393,10.163335 5.991387,11.365848 5.6203159,11.081267 5.4323321,10.334772 9.9196073,9.0281409 10.733558,8.6028766 Z"
+     id="path602"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+</svg>

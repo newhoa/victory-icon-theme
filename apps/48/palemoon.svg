@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="48"
+   height="48"
+   id="svg3366"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="palemoon.svg">
+  <metadata
+     id="metadata118050">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="852"
+     id="namedview118048"
+     showgrid="false"
+     inkscape:zoom="1.6664465"
+     inkscape:cx="54.271837"
+     inkscape:cy="-6.3695348"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3366"
+     inkscape:object-nodes="true"
+     inkscape:snap-object-midpoints="true" />
+  <defs
+     id="defs3368" />
+  <circle
+     style="opacity:1;fill:#f8ad2b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle5480"
+     cx="24"
+     cy="24"
+     r="20" />
+  <circle
+     r="18.5"
+     cy="24"
+     cx="24"
+     id="circle5504"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     r="16"
+     cy="24"
+     cx="-24"
+     id="circle5482"
+     style="opacity:1;fill:#f8ad2b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="scale(-1,1)" />
+  <ellipse
+     style="opacity:1;fill:#fcdda8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="ellipse5484"
+     cx="14.392258"
+     cy="32.967728"
+     rx="4.8954992"
+     ry="3.7251942" />
+  <ellipse
+     cy="33.737366"
+     cx="22.261292"
+     id="ellipse5486"
+     style="opacity:1;fill:#fcdda8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     rx="5.6115212"
+     ry="3.7251942" />
+  <ellipse
+     ry="4.3666091"
+     rx="6.2449632"
+     style="opacity:1;fill:#fcdda8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="ellipse5488"
+     cx="32.256134"
+     cy="33.224243" />
+  <path
+     style="opacity:1;fill:#fcdda8;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 18.228518,31.751811 c -3.25598,4.2e-4 -6.63449,1.78711 -6.63401,4.08268 5.9e-4,2.29503 3.57599,3.7082 6.63401,4.23037 0.14467,8e-5 0.2893,-0.004 0.43359,-0.011 1.06387,0.63517 2.41256,0.984 3.80664,0.98456 1.07376,-10e-4 2.12661,-0.20941 3.04493,-0.60175 0.72176,0.21347 1.49659,0.32347 2.27929,0.3236 3.25598,3.4e-4 7.47344,-2.03406 7.47404,-4.32962 4.8e-4,-2.29611 -4.2173,-3.98377 -7.47404,-3.98343 -1.07309,0.002 -2.12522,0.20966 -3.04297,0.60175 -0.72237,-0.21364 -1.49789,-0.32365 -2.28125,-0.32359 -0.14339,4.4e-4 -0.28672,0.005 -0.42968,0.0124 -1.06462,-0.63629 -2.41489,-0.98565 -3.81055,-0.98595 z"
+     id="path5490"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
+  <circle
+     r="1"
+     style="opacity:1;fill:#ffda8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle5492"
+     cx="-13"
+     cy="24"
+     transform="scale(-1,1)" />
+  <circle
+     cy="13"
+     cx="-21"
+     id="circle5494"
+     style="opacity:1;fill:#ffda8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="1"
+     transform="scale(-1,1)" />
+  <circle
+     r="1"
+     style="opacity:1;fill:#ffda8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle5496"
+     cx="-16"
+     cy="18"
+     transform="scale(-1,1)" />
+  <circle
+     transform="scale(-1,1)"
+     cy="24"
+     cx="-20"
+     id="circle5498"
+     style="opacity:1;fill:#ffda8b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="1" />
+  <circle
+     r="5"
+     transform="scale(-1,1)"
+     cy="19"
+     cx="-29"
+     id="circle5500"
+     style="opacity:1;fill:#ffe8b9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     r="17"
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle5502"
+     cx="24"
+     cy="24" />
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="applications-games.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1116"
+     inkscape:window-height="609"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.1253046"
+     inkscape:cx="11.894363"
+     inkscape:cy="7.1563751"
+     inkscape:window-x="321"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     id="rect6970-4"
+     style="fill:#474747;fill-opacity:1;stroke:none"
+     d="m 4.9999988,-5.78e-6 0,15.00000578 9.0000042,0 0,-15.00000578 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect17959"
+     width="1"
+     height="7"
+     x="9.0000048"
+     y="6.0000014" />
+  <rect
+     transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+     y="-3.500005"
+     x="12.935035"
+     height="7"
+     width="1"
+     id="rect17992"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect17994"
+     width="1"
+     height="7"
+     x="9.0000029"
+     y="-13.000011"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+     y="-16.935041"
+     x="-0.50000364"
+     height="7"
+     width="1"
+     id="rect17996"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path17990"
+     cx="9.5"
+     cy="9.499999"
+     r="2.5" />
+  <path
+     style="fill:#474747;fill-opacity:1;stroke:none"
+     d="M 2.5,0 C 2.2230012,0 2,0.223001 2,0.5 L 2,2 2,8 1.5,8 C 1.2230012,8 1,8.223001 1,8.5 L 1,15 4,15 4,0 Z"
+     id="rect3200"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccsccccc" />
+</svg>

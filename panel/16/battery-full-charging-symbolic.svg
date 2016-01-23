@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="battery-full-charging-symbolic.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1198"
+     inkscape:window-height="584"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="41.7193"
+     inkscape:cx="12.581152"
+     inkscape:cy="8.5514812"
+     inkscape:window-x="149"
+     inkscape:window-y="120"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer9" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer9"
+     transform="translate(-79.9998,-217.99875)">
+    <rect
+       id="rect3743"
+       style="fill:#00ff00"
+       transform="scale(-1,1)"
+       height="5"
+       width="3"
+       y="223.99875"
+       x="-84.999802"
+       class="success" />
+    <path
+       style="text-indent:0;text-transform:none;block-progression:tb;color:#bebebe;fill:#bebebe"
+       d="m 0,4 0,9 4.031375,0 0.53125,-1 L 1,12 1,5 6.593375,5 7.624625,4 z M 12.4995,4 11.6245,5 14,5 l 0,1 0,1 1,0 0,3 -1,0 0,1 0,1 -4.562,0 -1,1 6.562,0 0,-2 1,0 0,-5 -1,0 0,-2 z"
+       transform="translate(79.9998,217.99875)"
+       id="path3745"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
+    <rect
+       id="rect3743-3"
+       style="fill:#00ff00"
+       transform="scale(-1,1)"
+       height="5"
+       width="3"
+       y="223.99875"
+       x="-88.999802"
+       class="success" />
+    <rect
+       id="rect3743-8"
+       style="fill:#00ff00"
+       transform="scale(-1,1)"
+       height="5"
+       width="3"
+       y="223.99875"
+       x="-92.999802"
+       class="success" />
+    <path
+       style="text-indent:0;text-transform:none;block-progression:tb;color:#bebebe;fill:#bebebe"
+       d="m 90.8765,219.99896 c -0.221847,0.024 -0.434655,0.12479 -0.59375,0.28125 l -0.125,0.15625 -4.875135,4.84375 c -0.235301,0.23073 -0.28125,0.41757 -0.28125,0.90625 l 0,0.8125 0.8125,0 0.187499,0 2.125,0 -2.843364,3.28098 c -0.02173,0.0199 -0.04259,0.0408 -0.0625,0.0625 l -0.0625,0.0937 c -0.105214,0.167 -0.160259,0.36516 -0.15625,0.5625 -0.0026,0.0416 -0.0026,0.0834 0,0.125 l 0,0.875 0.84375,0 0.15625,0 c 0.263856,0.004 0.527909,-0.099 0.71875,-0.28125 l 0.125,-0.15625 4.874614,-4.84348 c 0.235301,-0.23073 0.28125,-0.24726 0.28125,-0.90625 l 0,-0.8125 -0.8125,0 -0.1875,0 -2.125,0 2.843886,-3.28125 c 0.04675,-0.0477 0.08869,-0.10016 0.125,-0.15625 0.173328,-0.23947 0.216174,-0.40185 0.216174,-0.70592 l -0.05992,-0.85658 -0.78125,0 -0.1875,0 c -0.0104,-1.6e-4 -0.0208,-1.6e-4 -0.0312,0 -0.04161,-0.003 -0.08339,-0.003 -0.125,0 z"
+       id="path6288"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

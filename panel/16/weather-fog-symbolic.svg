@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="weather-fog-symbolic.svg">
+  <defs
+     id="defs5651">
+    <linearGradient
+       id="linearGradient6163">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1"
+         offset="0"
+         id="stop6165" />
+      <stop
+         id="stop6171"
+         offset="0.6785813"
+         style="stop-color:#c8c8c8;stop-opacity:0.65161288;" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:0.03921569"
+         offset="1"
+         id="stop6167" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6163"
+       id="linearGradient6169"
+       x1="288.9679"
+       y1="285.00037"
+       x2="296.94016"
+       y2="285.00037"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="matrix(1,0,0,0.76923077,0,65.769286)" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1004"
+     inkscape:window-height="736"
+     id="namedview5649"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="9.9101428"
+     inkscape:cy="6.6639849"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer9" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer9"
+     transform="matrix(0.81542459,0,0,0.81542459,-227.63231,-224.39629)">
+    <rect
+       style="fill:url(#linearGradient6169);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect5653"
+       width="15.942615"
+       height="12.26355"
+       x="280.99756"
+       y="278.86856" />
+  </g>
+</svg>

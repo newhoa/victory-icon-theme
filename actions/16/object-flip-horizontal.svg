@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="16"
+   height="16"
+   id="svg3301"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="object-flip-horizontal.svg">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1173"
+     inkscape:window-height="535"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="8.5253905"
+     inkscape:cx="-9.0737037"
+     inkscape:cy="16.737142"
+     inkscape:window-x="354"
+     inkscape:window-y="630"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3301" />
+  <defs
+     id="defs3303" />
+  <path
+     d="m 5.0000002,6 0,-3 -5,5 5,5 0,-3 L 11,10 l 0,3 5,-5 -5,-5 0,3 z"
+     id="path2849"
+     style="fill:#50a9f0;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
+</svg>

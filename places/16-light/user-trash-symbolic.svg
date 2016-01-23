@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-trash-symbolic.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="994"
+     inkscape:window-height="665"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="12.263208"
+     inkscape:cy="7.7369787"
+     inkscape:window-x="299"
+     inkscape:window-y="144"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1-7"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="false" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer13"
+     transform="matrix(0.87669311,0,0,0.87669311,-421.56608,-153.32525)">
+    <g
+       id="layer1-7"
+       transform="translate(482,176)">
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="m 4,5 0,8 8,0 0,-8 z m 1,1 1,0 0,7 -1,0 z m 2.5,0 1,0 0,7 -1,0 z M 10.03125,6 11,6 10.96875,13 10,13 z"
+         transform="matrix(1.14065,0,0,1.14065,-1.1406489,-1.1095529)"
+         id="rect2994"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccc" />
+      <path
+         style="text-indent:0pt;text-transform:none;color:#bebebe;fill:#bebebe"
+         d="m 3.7427589,-1.1095529 c -1.4593134,0 -1.4614578,1.12137705 -1.4614578,1.49710317 l 0,0.78419683 -2.2813,0 0,2.2813 7.98455,0 7.9845499,0 0,-2.2813 -2.2813,0 0,-0.78419683 c 0,-0.37572623 -0.0021,-1.49710317 -1.461458,-1.49710317 -2.9368547,-2.184e-4 -4.2417919,0 -4.2417919,0 0,0 -1.3049369,-2.183e-4 -4.2417922,0 z m 0.8198422,1.14065004 3.42195,0 3.4219499,0 0,1.14064996 -3.4219499,0 -3.42195,0 0,-1.14064996 z"
+         id="path2995"
+         inkscape:connector-curvature="0" />
+      <path
+         style="text-indent:0pt;text-transform:none;color:#bebebe;fill:#bebebe"
+         d="m 12.547151,4.5935971 1.14065,0 0,9.1876029 c 0,1.201 -0.248357,2.219 -1.440565,2.219 l -8.5263585,0 c -1.1908234,0 -1.4395764,-1.018 -1.4395764,-2.219 l 0,-9.1874029 1.14065,0 0,9.1250999 9.1251999,0 z"
+         id="path2993"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssssccccc" />
+      <path
+         sodipodi:nodetypes="ccssssccccc"
+         inkscape:connector-curvature="0"
+         id="path2987"
+         d="m 12.547151,16.0002 1.14065,0 0,-9.1876029 c 0,-1.201 -0.248357,-2.219 -1.440565,-2.219 l -8.5263585,0 c -1.1908234,0 -1.4395764,1.018 -1.4395764,2.219 l 0,9.1874029 1.14065,0 0,-10.2656528 9.1251999,0 z"
+         style="text-indent:0pt;text-transform:none;color:#bebebe;fill:#bebebe" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="network-error-symbolic.svg">
+  <defs
+     id="defs313792" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview313790" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer9"
+     transform="translate(-321,-177)">
+    <g
+       id="g4172-7-1-0"
+       style="opacity:.35"
+       transform="translate(301 -40)">
+      <g
+         id="g4166-5-5-6">
+        <path
+           id="rect12675-3-8-70-9-8"
+           d="m262.75 201c-0.9522 0-1.75 0.7978-1.75 1.75v4.5c0 0.9522 0.7978 1.75 1.75 1.75h0.125l-1.5 3h8.375c-0.47028-0.71122-0.75-1.5799-0.75-2.5 0-1.5729 0.78412-2.946 2-3.75v-3c0-0.9522-0.7978-1.75-1.75-1.75h-6.5zm0.25 2h6v4h-6v-4z"
+           style="block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#bebebe"
+           transform="translate(-241 20)" />
+      </g>
+      <path
+         id="rect12675-3-8-5-2-9-9"
+         d="m268.75 198c-0.9522 0-1.75 0.7978-1.75 1.75v0.25h2 0.25 5.75v4h-3v1.2812c0.47-0.17 0.97-0.28 1.5-0.28 0.9511 0 1.8373 0.31273 2.5625 0.8125 0.56-0.29 0.94-0.89 0.94-1.56v-4.5c0-0.9522-0.7978-1.75-1.75-1.75h-6.5z"
+         style="color:#bebebe;text-indent:0pt;text-transform:none;fill:#bebebe"
+         transform="translate(-241 20)" />
+    </g>
+    <path
+       id="path3482"
+       d="m333.5 186c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5zm-2.5 2.9688h5v1.0312h-5v-1.0312z"
+       style="color:#bebebe;fill:#ef2929"
+       class="error" />
+  </g>
+</svg>

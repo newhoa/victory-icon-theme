@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   sodipodi:docname="audio-volume-medium.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andrea/aspetto/icone/mie/stock/flat/volume-0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.547014"
+     inkscape:cx="7.3077474"
+     inkscape:cy="15.901388"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1,7 3,0 4.0000001,-5 0,16 L 4,13 1,13 Z"
+     id="path4131"
+     sodipodi:nodetypes="ccccccc"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect3826"
+     width="1"
+     height="10"
+     x="14"
+     y="5" />
+  <rect
+     y="3"
+     x="17"
+     height="14"
+     width="1"
+     id="rect3828"
+     style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="rect3830"
+     width="1"
+     height="6"
+     x="11"
+     y="7" />
+</svg>

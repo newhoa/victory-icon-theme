@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg3017"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-invisible-symbolic.svg">
+  <defs
+     id="defs3019" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="31.678384"
+     inkscape:cx="6.1174253"
+     inkscape:cy="5.1917587"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg3017"
+     showgrid="false"
+     inkscape:window-width="1274"
+     inkscape:window-height="757"
+     inkscape:window-x="77"
+     inkscape:window-y="92"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3022">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2555"
+     d="M 7.9999993,1 C 4.1420687,1 0.99999969,4.142068 0.99999969,8 c 0,3.857932 3.14206861,7.000002 6.99999961,7 C 11.857929,15 15.000002,11.857932 15,8 15,4.142069 11.857929,1 7.9999993,1 z m 0,0.875 c 3.3840487,0 6.1249997,2.74095 6.1249997,6.125 3e-6,3.38405 -2.740951,6.125 -6.1249997,6.125 -3.3840495,2e-6 -6.1249997,-2.740949 -6.1249997,-6.125 0,-3.38405 2.7409498,-6.125 6.1249997,-6.125 z"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.37500525;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+</svg>

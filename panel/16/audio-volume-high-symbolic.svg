@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   sodipodi:docname="audio-volume-high-symbolic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andrea/aspetto/icone/mie/stock/flat/volume-0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.8701599"
+     inkscape:cx="15.790832"
+     inkscape:cy="14.755068"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="955"
+     inkscape:window-height="580"
+     inkscape:window-x="482"
+     inkscape:window-y="245"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+     d="m 5.698089,1.3244826 c -0.073711,0.0326 -0.1374922,0.08727 -0.1809818,0.155127 l -3.1025446,3.981599 -2.0008906,0 C 0.19708,5.4612306 2.1e-5,5.6582896 0,5.8748816 l 0,4.1367264 c 2.1e-5,0.216593 0.19708,0.413651 0.413672,0.413673 l 2.0008906,0 3.1025446,3.955744 c 0.2110642,0.242469 0.6936688,0.08735 0.7239271,-0.232691 l 0,-12.4101784 C 6.2545083,1.4709326 5.9521507,1.2405656 5.698089,1.3244826 Z"
+     id="path4131"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="M 12.518544,1.2206696 11.245,2.2373606 c 3.938811,3.144419 3.938811,8.2425294 0,11.3869484 L 12.518544,14.641 c 4.64217,-3.705922 4.64217,-9.7144094 0,-13.4203304 z"
+     id="path2871"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 10.558732,3.2540526 -1.2735461,1.016692 c 2.5320941,2.021412 2.5320941,5.298768 0,7.3201804 l 1.2735461,1.016692 c 3.23545,-2.582916 3.235453,-6.7706494 0,-9.3535644 z"
+     id="path3647"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#bebebe;fill-opacity:1;stroke:none"
+     d="m 8.5435448,5.2874366 -1.273545,1.016691 c 1.125376,0.898407 1.125376,2.355007 0,3.253414 l 1.273545,1.0166914 c 1.8287332,-1.4599084 1.8287332,-3.8268884 0,-5.2867964 z"
+     id="path3651"
+     inkscape:connector-curvature="0" />
+</svg>

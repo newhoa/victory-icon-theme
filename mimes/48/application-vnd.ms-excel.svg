@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="48"
+   height="48"
+   id="svg2466"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="application-vnd.ms-excel.svg">
+  <metadata
+     id="metadata286116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1140"
+     inkscape:window-height="755"
+     id="namedview286114"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-3.9050855"
+     inkscape:cy="30.82129"
+     inkscape:window-x="166"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2466" />
+  <defs
+     id="defs2468">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4132"
+       id="linearGradient4138"
+       x1="-29.694916"
+       y1="44.701263"
+       x2="-29.694916"
+       y2="0.91525328"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86764708,0,0,0.91472876,50.117649,3.2558137)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4132">
+      <stop
+         style="stop-color:#6fc6a2;stop-opacity:1"
+         offset="0"
+         id="stop4134" />
+      <stop
+         style="stop-color:#9dd8c5;stop-opacity:1"
+         offset="1"
+         id="stop4136" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#40b988;fill-opacity:1;stroke:none"
+     id="rect4154"
+     width="34"
+     height="44"
+     x="7"
+     y="2" />
+  <rect
+     y="3"
+     x="8"
+     height="42"
+     width="32"
+     id="rect4150"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     style="fill:url(#linearGradient4138);fill-opacity:1;stroke:none"
+     id="rect3362"
+     width="30"
+     height="40"
+     x="9"
+     y="4" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4140"
+     width="22"
+     height="2"
+     x="13.000002"
+     y="10" />
+  <rect
+     y="15"
+     x="13.000002"
+     height="2"
+     width="22"
+     id="rect4142"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4144"
+     width="22"
+     height="2"
+     x="13.000002"
+     y="20" />
+  <rect
+     y="29"
+     x="-26.619846"
+     height="2"
+     width="4.6198473"
+     id="rect4146"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     transform="scale(-1,1)" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 35,40 c -0.919003,0 -1.838007,0 -2.75701,0 C 31.46677,38.613087 30.69055,37.226174 29.91433,35.839261 29.13811,37.226174 28.36189,38.613087 27.58567,40 26.72378,40 25.86189,40 25,40 26.152648,38.108983 27.305296,36.217966 28.457944,34.326949 27.385774,32.5513 26.313603,30.77565 25.241433,29 c 0.887851,0 1.775701,0 2.663551,0 0.711319,1.319198 1.422638,2.638395 2.133956,3.957593 0.695743,-1.319198 1.391485,-2.638395 2.087228,-3.957593 0.867082,0 1.734165,0 2.601247,0 -1.085151,1.818285 -2.170302,3.636571 -3.255453,5.454856 C 32.647975,36.303238 33.823987,38.151619 35,40 z"
+     id="text3893-0"
+     style="font-size:31.35451507999999876px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold" />
+</svg>

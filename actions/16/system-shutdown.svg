@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="16"
+   height="16"
+   id="svg3386"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="application-exit.svg">
+  <metadata
+     id="metadata36">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="30.34131"
+     inkscape:cx="9.8612635"
+     inkscape:cy="10.136665"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3386" />
+  <defs
+     id="defs3388" />
+  <circle
+     id="circle4467"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     cx="8"
+     cy="8"
+     r="8" />
+  <circle
+     cy="8"
+     cx="8"
+     style="fill:#e24336;fill-opacity:1;stroke:none"
+     id="path10634-5-4"
+     r="7" />
+  <circle
+     r="3.5"
+     cy="8"
+     cx="8"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="path10634-5-9" />
+  <circle
+     id="circle5207"
+     style="fill:#e24336;fill-opacity:1;stroke:none"
+     cx="8"
+     cy="8"
+     r="1.5" />
+</svg>

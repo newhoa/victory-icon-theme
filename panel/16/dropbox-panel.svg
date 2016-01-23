@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.91 r13725"
+   version="1.0"
+   sodipodi:docname="dropbox-panel.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/andrea/aspetto/icone/mie/stock/flat/volume-0.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#dcdcc8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="9.2116671"
+     inkscape:cy="8.0220465"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="955"
+     inkscape:window-height="580"
+     inkscape:window-x="382"
+     inkscape:window-y="165"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-63.766741,24.006696"
+       id="guide3805" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-16)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 5.6980892,17.324876 c -0.073711,0.0326 -0.1374922,0.08727 -0.1809818,0.155127 l -3.1025446,3.981599 -2.00089018,0 C 0.19708009,21.461624 2.168e-5,21.658683 0,21.875275 l 0,4.136726 c 2.168e-5,0.216593 0.19708009,0.413651 0.41367261,0.413673 l 2.00089019,0 3.1025446,3.955744 c 0.2110642,0.242469 0.6936688,0.08735 0.7239271,-0.232691 l 0,-12.410178 c 0.013474,-0.267223 -0.2888836,-0.49759 -0.5429453,-0.413673 z"
+       id="path4131"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       d="M 12.518544,17.221063 11.245,18.237754 c 3.938811,3.144419 3.938811,8.242529 0,11.386948 l 1.273544,1.016691 c 4.64217,-3.705922 4.64217,-9.714409 0,-13.42033 z"
+       id="path2871"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       d="m 10.558732,19.254446 -1.2735459,1.016692 c 2.5320939,2.021412 2.5320939,5.298768 0,7.32018 l 1.2735459,1.016692 c 3.23545,-2.582916 3.235453,-6.770649 0,-9.353564 z"
+       id="path3647"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       d="M 8.543545,21.28783 7.27,22.304521 c 1.125376,0.898407 1.125376,2.355007 0,3.253414 l 1.273545,1.016691 c 1.828733,-1.459908 1.828733,-3.826888 0,-5.286796 z"
+       id="path3651"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
