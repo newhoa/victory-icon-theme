@@ -16,7 +16,7 @@
    id="svg4486"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="rpm.svg"
+   sodipodi:docname="application-install.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata51">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="70.930251"
-     inkscape:cy="24.309696"
+     inkscape:zoom="16"
+     inkscape:cx="18.968758"
+     inkscape:cy="18.335333"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg4486"

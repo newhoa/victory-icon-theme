@@ -1,3 +1,23 @@
 2016-01
 
 ++ Initial Release
+
+2016-03
+
+Added:
+
+++ New ++
+
++ 16x16 Mime Icons
++ 64x64 Mime Icons
++ 64x64 Places Icons
++ Archive Icons - CBR, CBZ, BZ2
++ Text Icons - Markdown, Log, CUE, Python, Python Bytecode
++ Unkown Icon
++ Binary Icons - Shared Library
++ Multimedia Player (16x16 phone icon)
+
+++ Changed/Updated ++
+
++ Bittorrent Icon
++ Changed a few 48px mime icons for testing (log, font)
