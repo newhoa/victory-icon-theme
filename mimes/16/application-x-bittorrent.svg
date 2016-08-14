@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32.000001"
-     inkscape:cx="4.45585"
+     inkscape:cx="-0.46602485"
      inkscape:cy="11.336037"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
-     inkscape:window-height="852"
+     inkscape:window-height="854"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
        height="16"
        width="12"
        id="rect4205"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none" />
+       style="fill:#b47cd2;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4207"
@@ -74,10 +74,10 @@
        height="1"
        width="5"
        id="rect4211"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none"
        transform="matrix(0,-1,1,0,0,0)" />
     <rect
-       style="fill:#63a5c9;fill-opacity:1;stroke:none"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none"
        id="rect4213"
        width="2"
        height="1"
@@ -89,17 +89,17 @@
        height="1"
        width="2"
        id="rect4299"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none" />
+       style="fill:#b47cd2;fill-opacity:1;stroke:none" />
     <rect
        y="1041.3622"
        x="6"
        height="1"
        width="4"
        id="rect4303"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none" />
+       style="fill:#b47cd2;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none"
        id="rect4305"
        width="5"
        height="1"
@@ -111,10 +111,10 @@
        height="1"
        width="2"
        id="rect4307"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#63a5c9;fill-opacity:1;stroke:none"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none"
        id="rect4309"
        width="2"
        height="1"
@@ -122,7 +122,7 @@
        y="1043.3622"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#63a5c9;fill-opacity:1;stroke:none"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none"
        id="rect4311"
        width="2"
        height="3"
@@ -130,7 +130,7 @@
        y="1045.3622" />
     <path
        sodipodi:type="star"
-       style="fill:#63a5c9;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#b47cd2;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4313"
        sodipodi:sides="3"
        sodipodi:cx="8.25"

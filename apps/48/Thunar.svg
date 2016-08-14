@@ -16,19 +16,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="Thunar.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       id="linearGradient3204">
-      <stop
-         id="stop3206"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3208"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"

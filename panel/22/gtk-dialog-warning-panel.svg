@@ -37,18 +37,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview6" />
-  <g
-     id="layer3">
-    <path
-       id="path3659"
-       style="fill:#ff0f0f"
-       d="m10 15h2v2h-2v-2zm0-8v4.007l0.25 1.993h1.5l0.25-1.993v-4.007h-2z" />
-    <path
-       id="path3697"
-       style="stroke-linejoin:round;stroke:#ff0f0f;stroke-width:1px;fill:none"
-       d="m11 2.5-9.5 16h19l-9.5-16z" />
-  </g>
+     inkscape:window-width="1440"
+     inkscape:window-height="854"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="3.7926636"
+     inkscape:cx="42.253464"
+     inkscape:cy="10.802193"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4585" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3659"
+     style="fill:#ff9b0f;fill-opacity:1"
+     d="m 9.9999618,15 2.0000002,0 0,2 -2.0000002,0 0,-2 z m 0,-8 0,4.007 0.2500002,1.993 1.5,0 0.25,-1.993 0,-4.007 -2.0000002,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3697"
+     style="fill:none;stroke:#ff9c0f;stroke-width:1px;stroke-linejoin:round;stroke-opacity:1"
+     d="m 10.999962,2.5 -9.4999998,16 18.9999998,0 -9.5,-16 z" />
 </svg>

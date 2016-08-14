@@ -13,7 +13,7 @@ Added:
 + 64x64 Places Icons
 + Archive Icons - CBR, CBZ, BZ2
 + Text Icons - Markdown, Log, CUE, Python, Python Bytecode
-+ Unkown Icon
++ Unknown Icon
 + Binary Icons - Shared Library
 + Multimedia Player (16x16 phone icon)
 
@@ -21,3 +21,22 @@ Added:
 
 + Bittorrent Icon
 + Changed a few 48px mime icons for testing (log, font)
+
+2016-05
+
+++ New ++
+
++ Panel Icons (From Ubuntu-Mono-Dark)
++ Settings Icons for XFCE (Profile, Calendar, gparted, menu editor, Additional Drivers, Language/Locale, Bluetooth, Printer, Power)
+
+2016-08
+
+++ New ++
+
++ Added 16x16 CBR and CBZ icons
+
+++ Changed/Updated++
+
++ Fixed 64px Bittorrent icon to match previously changed 48px one
++ Added white background to category icons
++ Placeholder: Copied 48px icons from Places and Mimes to respective 96px folders (Since 48px icons scale better and sharper to 96px than 64px ones)

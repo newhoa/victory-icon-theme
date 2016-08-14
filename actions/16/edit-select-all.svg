@@ -42,7 +42,7 @@
      id="namedview18830"
      showgrid="false"
      inkscape:zoom="13.906433"
-     inkscape:cx="-1.6379154"
+     inkscape:cx="-12.963609"
      inkscape:cy="9.7900122"
      inkscape:window-x="0"
      inkscape:window-y="23"
@@ -73,6 +73,13 @@
          id="stop4160" />
     </linearGradient>
   </defs>
+  <rect
+     y="1"
+     x="0"
+     height="14"
+     width="16"
+     id="rect4142"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
      style="fill:#b9b9b9;fill-opacity:1;stroke:none"
      id="rect3374"

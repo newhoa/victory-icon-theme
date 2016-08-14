@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="11.633698"
+     inkscape:cx="-16.208631"
      inkscape:cy="8.6206539"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -69,6 +69,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1036.3622)">
+    <rect
+       y="1041.3622"
+       x="1"
+       height="6"
+       width="14"
+       id="rect4137"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#eb7161;fill-opacity:1;stroke:none"
        id="rect3196"

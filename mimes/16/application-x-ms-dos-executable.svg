@@ -16,19 +16,7 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="application-x-ms-dos-executable.svg">
   <defs
-     id="defs3869">
-    <linearGradient
-       id="linearGradient4873-3">
-      <stop
-         id="stop4875-3"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4877-8"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-  </defs>
+     id="defs3869" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"

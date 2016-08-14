@@ -30,9 +30,9 @@
      inkscape:window-height="614"
      id="namedview7"
      showgrid="false"
-     inkscape:zoom="7.2517093"
-     inkscape:cx="16.265043"
-     inkscape:cy="2.8491274"
+     inkscape:zoom="20.510931"
+     inkscape:cx="12.475662"
+     inkscape:cy="9.0946069"
      inkscape:window-x="460"
      inkscape:window-y="82"
      inkscape:window-maximized="0"
@@ -57,4 +57,13 @@
      d="m 8,2 -7,5 2,0 0,7 3,0 0,-4 4,0 0,4 3,0 0,-7 2,0 z"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccc" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="4"
+     height="4"
+     x="6"
+     y="10"
+     rx="0.060556039"
+     ry="0.28797764" />
 </svg>

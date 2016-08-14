@@ -15,7 +15,7 @@
    height="64"
    id="svg3578"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-deb.svg">
+   sodipodi:docname="application-x-rpm.svg">
   <metadata
      id="metadata119201">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,17 +51,6 @@
      inkscape:snap-object-midpoints="true" />
   <defs
      id="defs3580">
-    <linearGradient
-       id="linearGradient4873-3-6-0">
-      <stop
-         id="stop4875-3-2-4"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop4877-8-5-7"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4543-0"

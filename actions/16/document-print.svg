@@ -39,9 +39,9 @@
      inkscape:window-height="647"
      id="namedview2695"
      showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="-10.732577"
-     inkscape:cy="4.8933289"
+     inkscape:zoom="20.85965"
+     inkscape:cx="9.2183565"
+     inkscape:cy="8.4814899"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -59,7 +59,7 @@
      style="fill:#ffffff;fill-opacity:1;stroke:none"
      id="rect3209"
      width="12"
-     height="6"
+     height="7"
      x="2"
      y="9" />
   <rect
@@ -107,7 +107,7 @@
   <rect
      y="10"
      x="3"
-     height="4"
+     height="5"
      width="10"
      id="rect3871"
      style="fill:#5a5a5a;fill-opacity:1;stroke:none" />
@@ -125,4 +125,18 @@
      height="1"
      x="11.000001"
      y="6.9999995" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4162"
+     width="6"
+     height="1"
+     x="5"
+     y="11" />
+  <rect
+     y="13"
+     x="5"
+     height="1"
+     width="6"
+     id="rect4164"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
 </svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="48"
+   height="48"
+   id="svg4322"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="application-rss+xml.svg">
+  <metadata
+     id="metadata285373">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1299"
+     inkscape:window-height="797"
+     id="namedview285371"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="-34.662955"
+     inkscape:cy="38.485142"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4322" />
+  <defs
+     id="defs4324">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4132"
+       id="linearGradient4138"
+       x1="-29.694916"
+       y1="44.701263"
+       x2="-29.694916"
+       y2="0.91525328"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.86764708,0,0,0.91472876,50.117652,3.2558134)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4132">
+      <stop
+         style="stop-color:#ea9c4b;stop-opacity:1"
+         offset="0"
+         id="stop4134" />
+      <stop
+         style="stop-color:#ebc78a;stop-opacity:1"
+         offset="1"
+         id="stop4136" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#b97340;fill-opacity:1;stroke:none"
+     id="rect4154"
+     width="34"
+     height="44"
+     x="7"
+     y="2" />
+  <rect
+     y="3"
+     x="8"
+     height="42"
+     width="32"
+     id="rect4150"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     style="fill:url(#linearGradient4138);fill-opacity:1;stroke:none"
+     id="rect3362"
+     width="30"
+     height="40"
+     x="9"
+     y="4" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4140"
+     width="22"
+     height="2"
+     x="13"
+     y="10" />
+  <rect
+     y="15"
+     x="13"
+     height="2"
+     width="22"
+     id="rect4142"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4144"
+     width="22"
+     height="2"
+     x="13"
+     y="20" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 13.09493,39.352391 c 0,-0.460614 0.159027,-0.847313 0.477049,-1.160097 0.318042,-0.318445 0.707068,-0.477676 1.167078,-0.477688 0.448648,1.2e-5 0.829156,0.159243 1.141512,0.477688 0.318031,0.312784 0.477047,0.699483 0.477047,1.160097 0,0.449266 -0.159016,0.833121 -0.477047,1.151568 -0.312356,0.312783 -0.692864,0.469168 -1.141512,0.469158 -0.46001,10e-6 -0.849036,-0.156375 -1.167078,-0.469158 -0.318022,-0.31276 -0.477049,-0.696615 -0.477049,-1.151568 M 13,31.956123 l 0,2.724576 c 3.480271,0 6.307001,2.832241 6.307001,6.319301 l 2.733503,0 c 0,-4.994979 -4.055253,-9.043877 -9.040504,-9.043877 z m 0.0047,-5.961716 0,3.011702 c 6.607905,0 11.973196,5.372443 11.973196,11.989167 l 3.022081,0 c 2.2e-5,-8.282805 -6.723485,-15.000869 -14.995255,-15.000869 z"
+     id="path4311-8"
+     style="font-size:13.58991337px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif" />
+</svg>

@@ -30,10 +30,10 @@
      inkscape:window-height="609"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="7.6830535"
-     inkscape:cx="21.390937"
-     inkscape:cy="10.186768"
-     inkscape:window-x="620"
+     inkscape:zoom="15.366107"
+     inkscape:cx="13.195973"
+     inkscape:cy="5.5516413"
+     inkscape:window-x="322"
      inkscape:window-y="114"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7384" />
@@ -51,6 +51,15 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="10"
+     height="15"
+     x="5"
+     y="0"
+     rx="0.15139011"
+     ry="1.0799161" />
   <path
      id="path2989"
      style="fill:#474747;fill-opacity:1;stroke:none"

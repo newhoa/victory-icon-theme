@@ -37,16 +37,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1119"
-     inkscape:window-height="480"
+     inkscape:window-width="1440"
+     inkscape:window-height="854"
      id="namedview18830"
      showgrid="false"
-     inkscape:zoom="13.906433"
-     inkscape:cx="-1.6379154"
-     inkscape:cy="9.7900122"
+     inkscape:zoom="27.812866"
+     inkscape:cx="4.7921025"
+     inkscape:cy="10.464942"
      inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3480" />
   <defs
      id="defs3482">
@@ -73,6 +73,13 @@
          id="stop4160" />
     </linearGradient>
   </defs>
+  <rect
+     y="1"
+     x="0"
+     height="14"
+     width="16"
+     id="rect4142"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
   <rect
      style="fill:#b9b9b9;fill-opacity:1;stroke:none"
      id="rect3374"

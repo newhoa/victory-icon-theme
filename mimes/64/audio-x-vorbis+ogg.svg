@@ -16,7 +16,7 @@
    id="svg9170"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-ogg.svg">
+   sodipodi:docname="audio-x-vorbis+ogg.svg">
   <defs
      id="defs9172">
     <linearGradient
@@ -345,7 +345,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

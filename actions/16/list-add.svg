@@ -35,32 +35,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="885"
-     inkscape:window-height="480"
+     inkscape:window-width="1440"
+     inkscape:window-height="854"
      id="namedview1987"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="-39.703329"
-     inkscape:cy="20.558847"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-0.38499273"
+     inkscape:cy="-11.668274"
      inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3247" />
   <defs
      id="defs3249" />
-  <rect
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 5,1.0001 5,5 1,5 l 0,6 4,0 0,3.9999 6.000209,0 0,-3.9999 L 15,11 14.99958,5 10.999791,5 11.000209,1.0001 Z"
+     id="rect42670-6-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
+  <path
      style="fill:#67dd6c;fill-opacity:1;stroke:none"
-     id="rect3034"
-     width="4"
-     height="14"
-     x="6"
-     y="1" />
-  <rect
-     y="-15"
-     x="6"
-     height="14"
-     width="4"
-     id="rect3036"
-     style="fill:#67dd6c;fill-opacity:1;stroke:none"
-     transform="matrix(0,1,-1,0,0,0)" />
+     d="m 6,2 0,4 -4,0 0,4 4,0 0,4 4,0 0,-4 4,0 0,-4 -4,0 0,-4 z"
+     id="rect14445-4-3-4"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccc" />
 </svg>

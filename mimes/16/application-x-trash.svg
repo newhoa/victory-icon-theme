@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,19 +52,7 @@
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
-     id="defs4488">
-    <linearGradient
-       id="linearGradient4110">
-      <stop
-         style="stop-color:#efc65b;stop-opacity:1"
-         offset="0"
-         id="stop4112" />
-      <stop
-         style="stop-color:#fbd277;stop-opacity:1"
-         offset="1"
-         id="stop4114" />
-    </linearGradient>
-  </defs>
+     id="defs4488" />
   <path
      style="fill:#a7d8ff;fill-opacity:1"
      d="m 2,5 2.38e-5,1.8333333 0,9.1666667 11.9999522,0 0,-9.1666667 L 14,5 Z"
