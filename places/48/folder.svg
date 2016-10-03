@@ -19,6 +19,16 @@
   <defs
      id="defs4">
     <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7881"
+       id="linearGradient7768"
+       x1="29.339367"
+       y1="1044.2124"
+       x2="29.339367"
+       y2="1021.2756"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-8.0688476e-7,-1004.3622)" />
+    <linearGradient
        id="linearGradient7881"
        inkscape:collect="always">
       <stop
@@ -30,15 +40,6 @@
          offset="1"
          style="stop-color:#a7daf7;stop-opacity:1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7881"
-       id="linearGradient7768"
-       x1="29.339367"
-       y1="1044.2124"
-       x2="29.339367"
-       y2="1021.2756"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,11 +48,11 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6172959"
-     inkscape:cx="37.472807"
-     inkscape:cy="40.480718"
+     inkscape:zoom="0.99300701"
+     inkscape:cx="136.52819"
+     inkscape:cy="-51.738603"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      borderlayer="false"
      inkscape:showpageshadow="false"
@@ -61,7 +62,7 @@
      gridtolerance="1"
      guidetolerance="5"
      inkscape:window-width="1440"
-     inkscape:window-height="852"
+     inkscape:window-height="854"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -87,36 +88,30 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-1004.3622)">
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path7252-38-6"
-       d="m 44,1021.3622 0,23 -40,0 0,-23 z"
-       style="fill:url(#linearGradient7768);fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path7254-8-1"
-       d="m 44,1016.3622 -23,0 0,-3 -17,0 0,7 40,0 z"
-       style="fill:#a3d9f7;fill-opacity:1;stroke:none" />
-    <rect
-       y="1016.3622"
-       x="6.0000305"
-       height="1"
-       width="13"
-       id="rect7256-8-3"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect7258-8-8"
-       width="40"
-       height="1"
-       x="4"
-       y="1020.3622" />
-  </g>
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path7252-38-6"
+     d="m 43.999999,17 0,23 -39.9999998,0 0,-23 z"
+     style="display:inline;fill:url(#linearGradient7768);fill-opacity:1;stroke:none" />
+  <path
+     sodipodi:nodetypes="ccccccc"
+     inkscape:connector-curvature="0"
+     id="path7254-8-1"
+     d="m 43.999999,12 -23,0 0,-3 -16.9999998,0 0,7 39.9999998,0 z"
+     style="display:inline;fill:#a3d9f7;fill-opacity:1;stroke:none" />
+  <rect
+     y="11.999933"
+     x="6.0000315"
+     height="1"
+     width="13"
+     id="rect7256-8-3"
+     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7258-8-8"
+     width="40"
+     height="1"
+     x="4.000001"
+     y="15.999933" />
 </svg>

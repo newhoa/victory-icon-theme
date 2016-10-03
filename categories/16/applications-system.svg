@@ -24,19 +24,29 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="852"
+     inkscape:window-height="854"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.843951"
-     inkscape:cx="5.0634913"
-     inkscape:cy="3.4289232"
+     inkscape:zoom="15.633669"
+     inkscape:cx="6.1955335"
+     inkscape:cy="12.648642"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384" />
+     inkscape:current-layer="svg7384"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -52,31 +62,32 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <rect
-     style="opacity:1;fill:#474747;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect19195-5"
-     width="8.000001"
-     height="1"
-     x="4.0000095"
-     y="12.999994" />
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4136"
+     width="14"
+     height="10"
+     x="1"
+     y="1.0000012" />
   <rect
-     y="9"
-     x="6.0000062"
-     height="5"
+     y="10.000006"
+     x="5.9999981"
+     height="4"
      width="4"
-     id="rect19197-7"
-     style="opacity:1;fill:#474747;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="rect4138"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     style="opacity:1;fill:#474747;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect19199-8"
-     width="12"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4140"
+     width="1"
      height="8"
-     x="2"
-     y="2.000005" />
+     x="13.999999"
+     y="-12.000002"
+     transform="matrix(0,1,-1,0,0,0)" />
   <rect
-     y="2.9999969"
-     x="2.9999914"
-     height="6"
-     width="10"
-     id="rect19201-1"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     y="2.0000196"
+     x="1.9999914"
+     height="8"
+     width="12"
+     id="rect4142"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

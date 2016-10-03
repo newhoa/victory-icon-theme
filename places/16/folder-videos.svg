@@ -27,18 +27,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="855"
+     inkscape:window-height="854"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="14.584077"
-     inkscape:cx="12.802984"
-     inkscape:cy="12.858788"
+     inkscape:zoom="5.0064698"
+     inkscape:cx="-59.575965"
+     inkscape:cy="35.874578"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="false" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -53,26 +55,102 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
-  <g
-     id="layer13"
-     transform="matrix(0,-0.87497266,0.87497266,0,-154.3896,401.63133)"
-     style="fill:#8C8C8C;fill-opacity:1">
-    <g
-       id="g14154"
-       transform="matrix(1.0343423,0,0,1,226.18678,-820)"
-       style="fill:#8C8C8C;fill-opacity:1" />
-    <path
-       style="fill:#8C8C8C;fill-opacity:1"
-       d="M 6,2.8500027e-6 6,15 l 8.999997,0 0,-3.999998 -3.999997,0 0,3 -1,0 0,-2e-6 -1,0 0,2e-6 -1,0 0,-9.0000014 6.999997,0 0,-4.9999977499973 z M 9,6 9,7 10,7 10,6 z m 2,0 0,4.000002 3.999997,0 0,-4.000002 z m -2,2 0,1 1,0 0,-1 z m 0,2 0,1 1,0 0,-1 z m -2.4e-6,2.000002 0,1 1.0000024,0 0,-1 z"
-       transform="matrix(0,1.1428929,-1.1428929,0,459.02158,175.30788)"
-       id="path4925"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
-  </g>
-  <path
-     style="fill:#8C8C8C;fill-opacity:1;stroke:none"
-     d="M 2,-2e-7 2,8 1,8 1,15 4,15 4,-2e-7 Z"
-     id="rect3967"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+  <rect
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6206"
+     width="12"
+     height="14"
+     x="2"
+     y="1" />
+  <rect
+     y="5"
+     x="3"
+     height="1"
+     width="1"
+     id="rect6214"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6218"
+     width="1"
+     height="2"
+     x="3"
+     y="2" />
+  <rect
+     y="8.9999981"
+     x="5"
+     height="5"
+     width="6"
+     id="rect6220"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6222"
+     width="6"
+     height="5"
+     x="5"
+     y="2" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6612"
+     width="1"
+     height="1"
+     x="12"
+     y="5" />
+  <rect
+     y="2"
+     x="12"
+     height="2"
+     width="1"
+     id="rect6614"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6616"
+     width="1"
+     height="2"
+     x="3"
+     y="12" />
+  <rect
+     y="9.9999981"
+     x="3"
+     height="1"
+     width="1"
+     id="rect6618"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     y="12"
+     x="12"
+     height="2"
+     width="1"
+     id="rect6620"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6622"
+     width="1"
+     height="1"
+     x="12"
+     y="9.9999981" />
+  <rect
+     y="7"
+     x="5"
+     height="1"
+     width="6"
+     id="rect6624"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect6626"
+     width="1"
+     height="2"
+     x="3"
+     y="7" />
+  <rect
+     y="7"
+     x="12"
+     height="2"
+     width="1"
+     id="rect6628"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

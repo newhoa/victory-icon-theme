@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   height="16"
-   width="16"
+   height="24"
+   width="24"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="folder-download.svg">
@@ -26,19 +26,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1116"
-     inkscape:window-height="609"
+     inkscape:window-width="1440"
+     inkscape:window-height="854"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="6.8192685"
-     inkscape:cx="25.843273"
-     inkscape:cy="8.5653731"
-     inkscape:window-x="321"
-     inkscape:window-y="126"
-     inkscape:window-maximized="0"
+     inkscape:zoom="7.0802178"
+     inkscape:cx="-18.862939"
+     inkscape:cy="11.585582"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg7384"
-     showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="false" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -54,15 +56,25 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
-     style="fill:#8c8c8c;fill-opacity:1"
-     d="m 4.999963,-3e-6 0,14.999623 9.000057,3.8e-4 0,-15.000003 z m 5.99995,4.500001 1.000007,1.187496 0,3.312505 -2.000013,0 0,-3.312505 z m -3.499978,5.499624 1.359358,0 c 0.357076,-0.02977 0.458136,0.113127 0.703128,0.374995 l 1.43758,1.531251 1.593675,-1.562501 c 0.224168,-0.224174 0.541434,-0.345782 0.875061,-0.343745 l 0.531021,3.71e-4 0,0.218001 2.62e-4,1.134535 -2.000012,2.115469 c -0.443524,0.458484 -1.556402,0.458484 -2.000013,0 L 7.874949,11.030495 C 7.646231,10.819318 7.498798,10.539974 7.499935,10.217994 Z"
-     id="path8982"
+     id="rect5149-5"
+     style="color:#000000;fill:#8c8c8c;fill-opacity:1;enable-background:new"
+     d="M 12.000001,23 4.65e-7,11.999999 l 6.000000235,0 0,-9.999999 12.0000003,0 0,9.999999 5.999999,0 z"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="cccccccc" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect5499-1"
+     width="10"
+     height="12.000001"
+     x="7"
+     y="-15.000022"
+     transform="scale(1,-1)" />
   <path
-     style="fill:#8c8c8c;fill-opacity:1;stroke:none"
-     d="m 1.999962,-3e-6 0,7.999998 L 1,7.999995 1,15 l 2.999975,0 0,-15.000003 z"
-     id="rect3967"
+     transform="matrix(3.7096182,0,0,-1.835785,-17.214659,1927.0526)"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:transform-center-y="1.1249663"
+     d="m 10.436292,1042.6344 -5.1218208,0 2.5609112,-4.6302 z"
+     id="path5532-2"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     sodipodi:nodetypes="cccc" />
 </svg>

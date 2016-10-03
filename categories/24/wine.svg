@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="24"
+   height="24"
+   id="svg3540"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wine.svg">
+  <metadata
+     id="metadata174409">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview174407"
+     showgrid="false"
+     inkscape:zoom="23.335794"
+     inkscape:cx="-1.0132715"
+     inkscape:cy="13.904016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3540" />
+  <defs
+     id="defs3542" />
+  <rect
+     y="-11"
+     x="2"
+     height="9"
+     width="9"
+     id="rect4292"
+     style="opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4296"
+     width="7"
+     height="7"
+     x="3"
+     y="-10" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4300"
+     width="6.2857141"
+     height="6.2857141"
+     x="14.142858"
+     y="-20.428572" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4140"
+     width="9"
+     height="9"
+     x="2"
+     y="-22" />
+  <rect
+     y="-21"
+     x="3"
+     height="7"
+     width="7"
+     id="rect4142"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4144"
+     width="9"
+     height="9"
+     x="13"
+     y="-11" />
+  <rect
+     y="-10"
+     x="14"
+     height="7"
+     width="7"
+     id="rect4146"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     y="-22"
+     x="13"
+     height="9"
+     width="9"
+     id="rect4148"
+     style="opacity:1;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4150"
+     width="7"
+     height="7"
+     x="14"
+     y="-21" />
+</svg>

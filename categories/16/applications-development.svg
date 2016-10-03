@@ -26,16 +26,16 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1116"
-     inkscape:window-height="609"
+     inkscape:window-width="1440"
+     inkscape:window-height="854"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="18.250609"
-     inkscape:cx="4.6358647"
-     inkscape:cy="7.3277998"
-     inkscape:window-x="322"
-     inkscape:window-y="112"
-     inkscape:window-maximized="0"
+     inkscape:zoom="29.919456"
+     inkscape:cx="-0.24822494"
+     inkscape:cy="10.095473"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
@@ -51,21 +51,89 @@
   </metadata>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
-  <path
-     id="rect6970-4"
-     style="fill:#474747;fill-opacity:1;stroke:none"
-     d="m 4.999999,-6.7e-6 0,15.0000067 9.000004,0 0,-15.0000067 z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 11.000002,3.9999933 0,1 1,0 0,0.9999997 -1,0 0,1 1,0 0,1 -1,0 0,1 1,0 0,1.000001 -1,0 0,1 1,0 0,1 -1,0 0,1 -0.999999,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,2 2.53125,0 1.468749,0 2,0 0,-2 0,-2 0,-2.000001 0,-2 0,-1.9999997 -2,0 z"
-     id="rect4139" />
-  <path
-     style="fill:#474747;fill-opacity:1;stroke:none"
-     d="M 2.5,0 C 2.2230012,0 2,0.223002 2,0.5 L 2,2 2,8 1.5,8 C 1.2230012,8 1,8.223002 1,8.5 L 1,15 4,15 4,0 Z"
-     id="rect3200"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csccsccccc" />
+  <rect
+     y="10"
+     x="4"
+     height="4"
+     width="8"
+     id="rect4144"
+     style="opacity:1;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4142"
+     width="4"
+     height="13"
+     x="8"
+     y="1" />
+  <rect
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7125"
+     width="9"
+     height="1"
+     x="4"
+     y="14" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     y="-13"
+     x="0.99999356"
+     height="1"
+     width="14"
+     id="rect7127"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7151"
+     width="1"
+     height="2"
+     x="9"
+     y="-11"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     y="-11"
+     x="11"
+     height="2"
+     width="2"
+     id="rect7153"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7155"
+     width="2"
+     height="1"
+     x="11"
+     y="-8"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     y="-6"
+     x="11"
+     height="1"
+     width="2"
+     id="rect7157"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     y="-11"
+     x="7"
+     height="2"
+     width="1"
+     id="rect7159"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect7161"
+     width="1"
+     height="2"
+     x="5"
+     y="-11"
+     transform="matrix(0,1,-1,0,0,0)" />
+  <rect
+     transform="matrix(0,1,-1,0,0,0)"
+     y="-11"
+     x="3"
+     height="2"
+     width="1"
+     id="rect7163"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

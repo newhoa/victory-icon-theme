@@ -34,7 +34,7 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1440"
-     inkscape:window-height="851"
+     inkscape:window-height="855"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,6 +57,18 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4788"
+       cx="8"
+       cy="8"
+       r="8" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       d="m 8.1605199,6.9228879 6.8872461,0 0,-6.9228879"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4792" />
     <path
        id="path3372-71"
        style="fill:#50a9f0;fill-opacity:1;stroke:none"

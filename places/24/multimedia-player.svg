@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
+   width="24"
+   height="24"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -29,14 +29,14 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.085825"
-     inkscape:cx="4.7958109"
-     inkscape:cy="6.5608508"
+     inkscape:zoom="8.5156251"
+     inkscape:cx="3.482956"
+     inkscape:cy="17.836203"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1440"
-     inkscape:window-height="853"
+     inkscape:window-height="854"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,41 +57,40 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-8)">
+     id="layer1">
     <rect
-       style="fill:#777777;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4135"
-       width="10"
-       height="15"
-       x="3"
-       y="8" />
-    <rect
-       y="20"
+       width="16"
+       height="22"
        x="4"
-       height="2"
-       width="2"
+       y="1.0000005" />
+    <rect
+       y="19"
+       x="5"
+       height="3"
+       width="4"
        id="rect4792"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       y="9"
-       x="4"
-       height="10"
-       width="8"
+       y="2"
+       x="5"
+       height="16"
+       width="14"
        id="rect4810"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4812"
-       width="2"
-       height="2"
-       x="7"
-       y="20" />
-    <rect
-       y="20"
+       width="4"
+       height="3"
        x="10"
-       height="2"
-       width="2"
+       y="19" />
+    <rect
+       y="19"
+       x="15"
+       height="3"
+       width="4"
        id="rect4814"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>

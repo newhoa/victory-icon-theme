@@ -1,42 +1,90 @@
-2016-01
+ [[ 2016-01 ]]
 
-++ Initial Release
 
-2016-03
+++ Initial Release ++
 
-Added:
 
-++ New ++
+-----------------------------------
 
-+ 16x16 Mime Icons
-+ 64x64 Mime Icons
-+ 64x64 Places Icons
-+ Archive Icons - CBR, CBZ, BZ2
-+ Text Icons - Markdown, Log, CUE, Python, Python Bytecode
-+ Unknown Icon
-+ Binary Icons - Shared Library
-+ Multimedia Player (16x16 phone icon)
 
-++ Changed/Updated ++
+ [[ 2016-03 ]]
+
+
+ [ New ]
+
++ New, started creating unique 16x16 Mime Icons
++ Added 64x64 Mime Icons, adapted from 48px icons
++ Added 64x64 Places Icons
++ Added Archive Icons - CBR, CBZ, BZ2
++ Added Text Icons - Markdown, Log, CUE, Python, Python Bytecode
++ New Unknown Icon
++ Added Binary Icons - Shared Library
++ Added Multimedia Player (16x16 phone icon)
+
+
+ [ Changed/Updated ]
 
 + Bittorrent Icon
 + Changed a few 48px mime icons for testing (log, font)
 
-2016-05
 
-++ New ++
+-----------------------------------
 
-+ Panel Icons (From Ubuntu-Mono-Dark)
-+ Settings Icons for XFCE (Profile, Calendar, gparted, menu editor, Additional Drivers, Language/Locale, Bluetooth, Printer, Power)
 
-2016-08
+ [[ 2016-05 ]]
 
-++ New ++
 
-+ Added 16x16 CBR and CBZ icons
+ [ New ]
 
-++ Changed/Updated++
+
++ New Settings Icons for XFCE (Profile, Calendar, gparted, menu editor, Additional Drivers, Language/Locale, Bluetooth, Printer, Power)
++ New 16px mime icons
++ Added Panel Icons (From Ubuntu-Mono-Dark)
+
+
+-----------------------------------
+
+
+ [[ 2016-08 ]]
+
+
+ [ New ]
+
++ New 16x16 CBR and CBZ icons
+
+
+ [ Changed/Updated ]
 
 + Fixed 64px Bittorrent icon to match previously changed 48px one
 + Added white background to category icons
-+ Placeholder: Copied 48px icons from Places and Mimes to respective 96px folders (Since 48px icons scale better and sharper to 96px than 64px ones)
++ Placeholder: Copied 48px Mime and missing Places icons to respective 96px folders (Since 48px icons scale better and sharper to 96px than 64px ones)
+
+
+-----------------------------------
+
+
+ [[ 2016-09 ]]
+
+
+ [ New ]
+
++ New Sidebar Icons at 16, 24, 32, and symbolic at 16
++ New Category Icons at 16, 24, and 32 to match new Sidebar icons
++ Added folder icon for No Access (folder-locked, Seems to only effect PCManFM)
++ Added icons for missing 16px mime types (ogg, playlist, subs)
++ Added 16px terminal icon
++ New Android APK icon at 16, 48, 64
++ Added Flowblade project file icon (48px)
++ Added Audacity project file icon (48px)
++ Added .part (partially downloaded file) icon (48px)
+
+
+ [ Changed/Updated ]
+
++ Cleaned up some 16 mimes and 16 actions
++ Fixed the bluetooth panel icon when bluetooth disabled
++ Placeholder: Copied 16px mime icons to 32 folder so they'd scale better
++ Added color to MSDOS executable icons
++ Fixed missing IMG icon (now same as ISO)
++ Changed color of Shell icon (48px for now)
++ Added "Alts" folder for old sidebar, category, and action (whisker menu) icons.

@@ -26,16 +26,16 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1116"
-     inkscape:window-height="609"
+     inkscape:window-width="1440"
+     inkscape:window-height="854"
      id="namedview8"
      showgrid="false"
-     inkscape:zoom="12.905129"
-     inkscape:cx="17.263679"
-     inkscape:cy="-0.17715451"
-     inkscape:window-x="321"
-     inkscape:window-y="88"
-     inkscape:window-maximized="0"
+     inkscape:zoom="6.4525645"
+     inkscape:cx="18.944137"
+     inkscape:cy="19.691761"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
   <metadata
      id="metadata90">
@@ -53,9 +53,18 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:1;fill:#474747;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:transform-center-x="-0.010591552"
-     inkscape:transform-center-y="-0.69373667"
-     d="m 15.00953,6.4487671 -3.520639,3.400017 0.80495,4.8277399 L 7.972295,12.37886 3.629585,14.636266 4.479362,9.8162151 0.99047,6.3836281 5.837206,5.702336 8.023663,1.3234759 10.169334,5.722465 Z"
-     id="path18262-3" />
+     style="opacity:1;fill:#8c8c8c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:transform-center-x="-0.012088174"
+     inkscape:transform-center-y="-0.79176398"
+     d="m 16,5.5 -3.5,5 L 14,16 8,13 2,16 3.5,10.5 0,5.5 5,6 8,0 11,6 Z"
+     id="path18262-3"
+     sodipodi:nodetypes="ccccccccccc" />
+  <path
+     sodipodi:nodetypes="ccccccccccc"
+     id="path4158"
+     d="M 14,6.75 11.25,9.875 12.5,14 8,11.75 3.5,14 4.75,9.875 2,6.75 5.5,7.25 8,2 10.5,7.25 Z"
+     inkscape:transform-center-y="-0.59382299"
+     inkscape:transform-center-x="-0.0090661305"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

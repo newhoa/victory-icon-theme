@@ -1,9 +1,11 @@
 # Victory Icon Theme
 
-Victory Icon Theme, A Gtk Icon Theme for Linux. Currently in Alpha/Testing. Created primarly for XFCE, but ultimately would like to complete it for Gnome, LXQT/LXDE, Budgie, Mint, etc.
+Victory Icon Theme: A Gtk Icon Theme for Linux. Currently in testing, it's fairly complete but there may be icons missing every now and then. Created primarly for XFCE, but should work okay on Gnome, LXQT/LXDE, Budgie, Mint, etc. If anyone finds missing icons on any of the latter Desktop Environments, please let me know.
 
-![Mime Icons](https://i.imgur.com/s53x2SR.png "Mime Icons")
+![Mime Icons](https://i.imgur.com/elvAHeC.png "Mime Icons")
 
-![Settings Icons](https://i.imgur.com/i4HST1l.png "Settings Icons")
+![Settings Icons](https://i.imgur.com/7iBiQeg.png "Settings Icons")
 
-![Whisker Menu Icons](https://i.imgur.com/UO242sN.png "Whisker Menu Icons")
+![Whisker Menu Icons](https://i.imgur.com/k7LjPX5.png "Whisker Menu Icons")
+
+![Compact List Icons](https://i.imgur.com/8f01jEz.png "Compact/Detailed List Icons")
