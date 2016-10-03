@@ -4,8 +4,9 @@ Victory Icon Theme: A Gtk Icon Theme for Linux. Currently in testing, it's fairl
 
 ![Mime Icons](https://i.imgur.com/elvAHeC.png "Mime Icons")
 
+![Compact List Icons](https://i.imgur.com/8f01jEz.png "Compact/Detailed List Icons")
+
 ![Settings Icons](https://i.imgur.com/7iBiQeg.png "Settings Icons")
 
 ![Whisker Menu Icons](https://i.imgur.com/k7LjPX5.png "Whisker Menu Icons")
 
-![Compact List Icons](https://i.imgur.com/8f01jEz.png "Compact/Detailed List Icons")
