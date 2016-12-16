@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="16"
+   height="16"
+   id="svg3323"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="inode-symlink.svg">
+  <metadata
+     id="metadata302649">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="957"
+     inkscape:window-height="723"
+     id="namedview302647"
+     showgrid="false"
+     inkscape:zoom="14.884229"
+     inkscape:cx="13.14783"
+     inkscape:cy="7.6749533"
+     inkscape:window-x="348"
+     inkscape:window-y="99"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3323" />
+  <defs
+     id="defs3325" />
+  <circle
+     transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+     r="8"
+     cy="11.313708"
+     cx="-9.681294e-08"
+     id="circle3280"
+     style="opacity:1;fill:#ffc16b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3306"
+     width="2"
+     height="7"
+     x="7"
+     y="3" />
+  <rect
+     y="11"
+     x="7"
+     height="2"
+     width="2"
+     id="rect3308"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

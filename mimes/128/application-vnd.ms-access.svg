@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="64"
+   height="64"
+   id="svg2466"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="application-vnd.ms-access.svg">
+  <metadata
+     id="metadata286116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1140"
+     inkscape:window-height="755"
+     id="namedview286114"
+     showgrid="false"
+     inkscape:zoom="19.666667"
+     inkscape:cx="43.279428"
+     inkscape:cy="22.659685"
+     inkscape:window-x="112"
+     inkscape:window-y="21"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2466"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <defs
+     id="defs2468">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4132"
+       id="linearGradient4138"
+       x1="-29.694916"
+       y1="44.701263"
+       x2="-29.694916"
+       y2="0.91525328"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2147059,0,0,1.2806202,68.564709,2.9581429)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4132">
+      <stop
+         style="stop-color:#c66fa2;stop-opacity:1"
+         offset="0"
+         id="stop4134" />
+      <stop
+         style="stop-color:#d89dc5;stop-opacity:1"
+         offset="1"
+         id="stop4136" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#b94095;fill-opacity:1;stroke:none"
+     id="rect4154-0"
+     width="46"
+     height="60"
+     x="9"
+     y="2" />
+  <rect
+     y="3"
+     x="10"
+     height="58"
+     width="44"
+     id="rect4150-2"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     style="fill:url(#linearGradient4138);fill-opacity:1;stroke:none"
+     id="rect3362"
+     width="42"
+     height="56"
+     x="11"
+     y="4.0000019" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4140-7"
+     width="30"
+     height="2"
+     x="17"
+     y="13" />
+  <rect
+     y="20"
+     x="17"
+     height="2"
+     width="30"
+     id="rect4142-3"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4924"
+     width="30"
+     height="2"
+     x="17"
+     y="27" />
+  <rect
+     y="51"
+     x="-35.467785"
+     height="3"
+     width="6.4677858"
+     id="rect4146"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     transform="scale(-1,1)" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44.707736,54 c -0.350616,-1.264305 -0.701232,-2.52861 -1.051834,-3.792914 -1.7671,0 -3.534185,0 -5.301284,0 C 38.000508,51.47139 37.646384,52.735695 37.292259,54 36.194849,54 35.097425,54 34,54 c 1.665424,-5.333334 3.330833,-10.666668 4.996243,-16 1.328825,0 2.657651,0 3.986476,0 1.672426,5.333332 3.344851,10.666666 5.017281,16 -1.097425,0 -2.194853,0 -3.292264,0 z m -1.809167,-6.626703 c -0.577793,-2.112993 -1.243372,-4.200994 -1.744905,-6.335317 -0.09694,-0.321495 -0.139748,-1.176456 -0.229268,-0.384023 -0.489763,2.267942 -1.165093,4.486061 -1.780888,6.71934 1.251678,0 2.50337,0 3.755061,0 z"
+     id="text3893-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.51395607px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#ffffff;fill-opacity:1;stroke:none" />
+</svg>

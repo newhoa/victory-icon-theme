@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   viewBox="0 0 128 128"
+   width="64"
+   height="64"
+   viewBox="0 0 63.999999 63.999999"
    id="svg9170"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -28,7 +28,7 @@
        x2="-29.694916"
        y2="0.91525328"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.3137255,0,0,2.4697676,133.64707,932.35313)" />
+       gradientTransform="matrix(1.2147058,0,0,1.2806203,68.56471,991.32042)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4132-8">
@@ -49,18 +49,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="101.34364"
-     inkscape:cy="102.81585"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="-37.777782"
+     inkscape:cy="71.381414"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
-     inkscape:window-height="853"
+     inkscape:window-height="852"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="true" />
   <metadata
      id="metadata9175">
     <rdf:RDF>
@@ -77,54 +81,54 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-924.3622)">
+     transform="translate(0,-988.3622)">
     <rect
        style="fill:#63a5c9;fill-opacity:1;stroke:none"
        id="rect4154-0"
-       width="92"
-       height="120"
-       x="18"
-       y="928.36218" />
+       width="46"
+       height="60"
+       x="9"
+       y="990.36218" />
     <rect
-       y="931.36218"
-       x="21"
-       height="114"
-       width="86"
+       y="991.36218"
+       x="10"
+       height="58"
+       width="44"
        id="rect4150-2"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        style="fill:url(#linearGradient4138-6);fill-opacity:1;stroke:none"
        id="rect3362-9"
-       width="80"
-       height="108"
-       x="24"
-       y="934.36218" />
+       width="42"
+       height="56"
+       x="11"
+       y="992.36218" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4140-7"
-       width="58"
-       height="4"
-       x="35"
-       y="958.36218" />
+       width="30"
+       height="2"
+       x="17"
+       y="1005.3622" />
     <rect
-       y="972.36218"
-       x="54.091885"
-       height="4"
-       width="58"
+       y="1012.3622"
+       x="17"
+       height="2"
+       width="30"
        id="rect4142-3"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4144-3"
-       width="58"
-       height="4"
-       x="35"
-       y="986.36218" />
+       width="30"
+       height="2"
+       x="17"
+       y="1019.3622" />
     <rect
-       y="1000.3622"
-       x="35"
-       height="4"
-       width="58"
+       y="1026.3622"
+       x="17"
+       height="2"
+       width="30"
        id="rect8957"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>

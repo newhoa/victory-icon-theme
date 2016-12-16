@@ -9,51 +9,67 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
    width="16"
    height="16"
-   id="svg7384"
+   id="svg2"
+   sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="edit-clear-symbolic.svg">
+   version="1.0"
+   sodipodi:docname="edit-clear-symbolic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
   <sodipodi:namedview
+     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
+     borderopacity="1.0"
+     gridtolerance="10000"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1129"
-     inkscape:window-height="664"
-     id="namedview7"
+     inkscape:zoom="11.313709"
+     inkscape:cx="7.8245649"
+     inkscape:cy="-4.016519"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1244"
+     inkscape:window-height="720"
+     inkscape:window-x="184"
+     inkscape:window-y="101"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg7384" />
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
-  <defs
-     id="defs11" />
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true" />
   <metadata
-     id="metadata90">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     style="opacity:1;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 6.59375,2.999999 a 0.51931882,0.52641945 0 0 0 -0.25,0.15625 l -5.1875,5.3125 a 0.51931882,0.52641945 0 0 0 0.03125,0.75 L 6.21875,13.84375 A 0.51931882,0.52641945 0 0 0 6.5625,14 l 7.90625,0 A 0.51931882,0.52641945 0 0 0 15,13.46875 l 0,-9.937501 a 0.51931882,0.52641945 0 0 0 -0.53125,-0.53125 l -7.75,0 a 0.51931882,0.52641945 0 0 0 -0.0625,0 0.51931882,0.52641945 0 0 0 -0.0625,0 z m 1.34375,2.25 1.8125,1.75 1.78125,-1.75 L 13,6.718749 11.25,8.499999 13,10.343749 11.53125,11.75 9.75,9.999999 7.9375,11.75 6.5,10.312499 8.25,8.499999 6.5,6.718749 7.9375,5.249999 z"
-     id="path4463"
-     inkscape:connector-curvature="0" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-8)">
+    <path
+       style="fill:#dd3834;fill-opacity:1;stroke:none"
+       d="M 6 2 L 3 5 L 0 8 L 3 11 L 6 14 L 16 14 L 16 2 L 6 2 z M 8.15625 4.25 L 10.25 6.34375 L 11.78125 4.8125 L 12.34375 4.25 L 14 5.90625 L 11.90625 8 L 14 10.09375 L 12.34375 11.75 L 11.78125 11.1875 L 10.25 9.65625 L 8.15625 11.75 L 6.5 10.09375 L 6.8125 9.78125 L 8.59375 8 L 6.8125 6.21875 L 6.5 5.90625 L 8.15625 4.25 z "
+       id="rect35380"
+       transform="translate(0,8)" />
+  </g>
 </svg>

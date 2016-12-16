@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
@@ -31,7 +30,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="852"
+     inkscape:window-height="853"
      inkscape:window-width="1440"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -44,7 +43,7 @@
      id="base"
      showgrid="false"
      inkscape:zoom="4.5895141"
-     inkscape:cx="56.114287"
+     inkscape:cx="21.796929"
      inkscape:cy="62.168428"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,31 +52,9 @@
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
-     id="defs4488">
-    <linearGradient
-       id="linearGradient4110">
-      <stop
-         style="stop-color:#f8c350;stop-opacity:1"
-         offset="0"
-         id="stop4112" />
-      <stop
-         style="stop-color:#ffd066;stop-opacity:1"
-         offset="1"
-         id="stop4114" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4110"
-       id="linearGradient4276-5"
-       x1="14.60701"
-       y1="27"
-       x2="35.620686"
-       y2="27"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1111111,0,0,1.1111111,-50.666672,-6.0000027)" />
-  </defs>
+     id="defs4488" />
   <rect
-     style="opacity:1;fill:url(#linearGradient4276-5);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ef7aae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4229-4"
      width="40"
      height="40"
@@ -97,7 +74,7 @@
      id="rect4305-5"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     style="opacity:1;fill:#fbc95b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#ef7aae;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4309-5"
      width="32"
      height="32"

@@ -38,11 +38,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="855"
+     inkscape:window-height="853"
      id="namedview217736"
      showgrid="false"
      inkscape:zoom="5.6568542"
-     inkscape:cx="19.480342"
+     inkscape:cx="-8.3619878"
      inkscape:cy="27.67155"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -74,28 +74,6 @@
        y2="-23.886944"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.69444443,0,0,2.2082769,-1.8333334,28.748982)" />
-    <linearGradient
-       y2="12.921971"
-       x2="18.228739"
-       y1="27.261189"
-       x1="18.228739"
-       gradientTransform="translate(-6,-2.9998994)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient4833"
-       xlink:href="#linearGradient6557-63-4-7"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient6557-63-4-7">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop6559-0-0-6" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="1"
-         id="stop6561-8-2-9" />
-    </linearGradient>
   </defs>
   <rect
      transform="scale(1,-1)"
@@ -306,7 +284,7 @@
      style="fill:#73c26c;fill-opacity:1;stroke:none"
      transform="scale(1,-1)" />
   <path
-     style="fill:url(#linearGradient4833);fill-opacity:1;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 19,10.000001 19,12 l 5,0 0,-1.999999 z M 13,13 l 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m -12,3 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 4,0 0,-2 z m -18,3 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 4,0 0,-2 z m -18,3 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 4,0 0,-2 z m -18,3 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 4,0 0,-2 z m -18,3 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 5,0 0,-2 z m 6,0 0,2 4,0 0,-2 z"
      id="rect6093-6-2-7"
      inkscape:connector-curvature="0"

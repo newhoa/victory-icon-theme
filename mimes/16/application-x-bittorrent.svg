@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000001"
-     inkscape:cx="-0.46602485"
-     inkscape:cy="11.336037"
+     inkscape:zoom="22.627418"
+     inkscape:cx="5.8397723"
+     inkscape:cy="12.392619"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1440"
-     inkscape:window-height="854"
+     inkscape:window-height="852"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -79,15 +79,15 @@
     <rect
        style="fill:#b47cd2;fill-opacity:1;stroke:none"
        id="rect4213"
-       width="2"
+       width="3"
        height="1"
-       x="5"
+       x="4"
        y="1039.3622" />
     <rect
        y="1043.3622"
-       x="5"
+       x="4"
        height="1"
-       width="2"
+       width="3"
        id="rect4299"
        style="fill:#b47cd2;fill-opacity:1;stroke:none" />
     <rect
@@ -107,18 +107,18 @@
        y="-12" />
     <rect
        y="1039.3622"
-       x="-11"
+       x="-12"
        height="1"
-       width="2"
+       width="3"
        id="rect4307"
        style="fill:#b47cd2;fill-opacity:1;stroke:none"
        transform="scale(-1,1)" />
     <rect
        style="fill:#b47cd2;fill-opacity:1;stroke:none"
        id="rect4309"
-       width="2"
+       width="3"
        height="1"
-       x="-11"
+       x="-12"
        y="1043.3622"
        transform="scale(-1,1)" />
     <rect
