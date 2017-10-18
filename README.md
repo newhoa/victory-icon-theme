@@ -2,7 +2,7 @@
 
 Victory Icon Theme: An Icon Theme for Linux. While this icon theme is slowly becoming a fairly complete icon theme, there are sure to be some icons missing here and there. Created primarly for XFCE though it should work okay on Gnome, LXQT/LXDE, Solus, Mint, etc. If anyone finds missing icons on any of the latter Desktop Environments, please let me know. Installation instructions are below the theme preview.
 
-[Preview](#preview) | [Installation](#install) | [Uninstallation](#uninstall) | [Contribute, Donate, Patreon](#contributedonate)
+[Preview](#preview) | [Installation](#install) | [Uninstallation](#uninstall) | [Contribute, Donate, Paypal & Patreon](#contributedonate)
 
 
 <a name="preview"></a>
@@ -87,4 +87,6 @@ If anyone would like to contribute, please feel free to let me know where icons 
 
 I have created a [Patreon page here](https://www.patreon.com/newhoa) for anyone interested in showing support via Patreon. I will try to post updates, previews, etc there.
 
-In addition to contributing, I'll also offer my paypal email for anyone interested in donating. I don't expect anything from this but a few have asked so it couldn't hurt to add it. It is `newhoa.donate` (AT) `linuxmail.org` | I've worked for many years and hundreds of hours on this theme. I've enjoyed every second of it and it has been an incredible learning experience. I'll continue to do it because I enjoy it and it's my way to give something to the FOSS community that I love, admire, and am indebted to. I would greatly appreciate help in any form and thank anyone who feels inclined to do so. Thank you all for your support.
+If you prefer to donate via Paypal, my paypal is `newhoa.donate` (AT) `linuxmail.org` or simply [donate via paypal here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=newhoa%2edonate%40linuxmail%2eorg&lc=US&item_name=newhoa&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
+
+I don't know if people are interested in showing monetary support, but I like to contribute to those whose work I find value in and hopefully people who find value in my work might do the same. I've worked for many years and hundreds of hours on this theme. I've enjoyed every second of it and it has been an incredible learning experience. I'll continue to do it because I enjoy it and it's my way to give something to the FOSS community that I love, admire, and am indebted to. I would greatly appreciate help in any form and thank anyone who feels inclined to do so. Thank you all for your support.
