@@ -22,9 +22,13 @@ Victory Icon Theme: An Icon Theme for Linux. While this icon theme is slowly bec
 
 ## Install
 
-To install the icon pack you can [download the theme as an archive](https://github.com/newhoa/victory-icon-theme/archive/master.zip) and extract it to your `/home/yourusername/.icons/` folder.
+**Method 1**
 
-Or you can simply clone it in the terminal using either of these commands:
+[Download the theme as an archive](https://github.com/newhoa/victory-icon-theme/archive/master.zip) and extract it to your `/home/yourusername/.icons/` folder.
+
+**Method 2**
+
+Using the terminal, you can clone the repository to your themes folder using either of these commands:
 
 Command 1
 
@@ -45,7 +49,15 @@ Command 1 will:
 
 Command 2 will:
 
-- copy it to the `/usr/share/icons` directory allowing all users on the machine to use it. 
+- copy it to the `/usr/share/icons` directory as administrator allowing all users on the machine to use it.
+
+**Method 3**
+
+As distro-specific packages are created, I will add them here:
+
+* [Arch AUR](https://aur.archlinux.org/packages/victory-icon-theme-git/)
+
+**Configure and Apply the theme**
 
 Once the icon theme is placed in the correct folder, open the appearance manager for your Desktop Environment to select the theme:
 
