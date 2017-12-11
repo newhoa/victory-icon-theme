@@ -99,6 +99,8 @@ If anyone would like to contribute, please feel free to let me know where icons 
 
 I have created a [Patreon page here](https://www.patreon.com/newhoa) for anyone interested in showing support via Patreon. I will try to post updates, previews, etc there.
 
+For those not interested in using Patreon, I've also started a [Liberapay page here](https://liberapay.com/newhoa/).
+
 If you prefer to donate via Paypal, my paypal is `newhoa.donate` (AT) `linuxmail.org` or simply [donate via paypal here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=newhoa%2edonate%40linuxmail%2eorg&lc=US&item_name=newhoa&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
 
 I don't know if people are interested in showing monetary support, but I like to contribute to those whose work I find value in and hopefully people who find value in my work or think that what I do is worth a few dollars might do the same. I've worked for many years and hundreds of hours on this theme. I've enjoyed every second of it and it has been an incredible learning experience. I'll continue to do it because I enjoy it and it's my way to give something to the FOSS community that I love, admire, and am indebted to. I would greatly appreciate help in any form and thank anyone who feels inclined to do so. Thank you all for your support.
