@@ -2,7 +2,7 @@
 
 Victory Icon Theme: An Icon Theme for Linux. While this icon theme is slowly becoming a fairly complete icon theme, there are sure to be some icons missing here and there. Created primarly for XFCE though it should work okay on Gnome, LXQT/LXDE, Solus, Mint, etc. If anyone finds missing icons on any of the latter Desktop Environments, please let me know. Installation instructions are below the theme preview.
 
-[Preview](#preview) | [Installation](#install) | [Uninstallation](#uninstall) | [Contribute, Donate, Paypal & Patreon](#contributedonate)
+[Preview](#preview) | [Installation](#install) | [Uninstallation](#uninstall) | [Contribute, Donate, Paypal, Liberapay & Patreon](#contributedonate)
 
 
 <a name="preview"></a>
