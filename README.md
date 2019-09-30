@@ -1,3 +1,14 @@
+# Moving To Gitlab
+
+[Victory Icon Theme on Gitlab](https://gitlab.com/newhoa/victory-icon-theme)
+
+I am in the process of moving this project, as well as my other Github projects, to Gitlab. I will leave the files here for a month or two. After that I may leave the Readme with this redirect notice or delete my account. Thank you all for your stars, watches, suggestions, kind comments and everything else. I really do appreciate it. I hope if you're reading this and have a Gitlab account you will find me there. I may also eventually mirror it on Bitbucket.
+
+2019-09-30
+
+------------------------
+
+
 # Victory Icon Theme
 
 Victory Icon Theme: An Icon Theme for Linux. While this icon theme is slowly becoming a fairly complete icon theme, there are sure to be some icons missing here and there. Created primarly for XFCE though it should work okay on Gnome, LXQT/LXDE, Solus, Mint, etc. If anyone finds missing icons on any of the latter Desktop Environments, please let me know. Installation instructions are below the theme preview.
